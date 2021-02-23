@@ -1,2 +1,2 @@
-# this is not quite useful comment
-print("your command is: " + input("What is your command?\n"))
+# print the number of characters in a user's name
+print(len(input("What is your name?\n")))
