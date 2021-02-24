@@ -21,3 +21,5 @@ The first day was great, Angela is spectacular coach, I'd say she has a talent t
 ### day2 😃
 
 the pledge is working
+
+actually i'm starting to get used to python
