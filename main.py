@@ -1,5 +1,3 @@
-# num_char = len(input("What's your favourite movie?\n"))
-# print("Your fav movie name has " + str(num_char) + " characters!")
+two_digit_number = input("Type a two digit number: ")
 
-
-print(70 + float("100.5"))
+print(int(two_digit_number[0]) + int(two_digit_number[1]))
