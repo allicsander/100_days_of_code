@@ -17,3 +17,5 @@
 :blush:
 
 The first day was great, Angela is spectacular coach, I'd say she has a talent to teach. I feel good and look forward to tomorrow's assignments.
+
+### day2 😃
