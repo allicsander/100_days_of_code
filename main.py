@@ -1,2 +1,2 @@
-# variables swaping
-print("Hello"[0])
+num_char = len(input("What's your favourite movie?\n"))
+print("Your fav movie name has " + str(num_char) + " characters!")
