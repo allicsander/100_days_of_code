@@ -1,3 +1,8 @@
-two_digit_number = input("Type a two digit number: ")
+# BMI Calculator
 
-print(int(two_digit_number[0]) + int(two_digit_number[1]))
+height = float(input("Enter your height in m: "))
+weight = float(input("Enter your weight in kg: "))
+
+bmi_index = int(weight/height**2)
+
+print("Your BMI index is: " + str(bmi_index))
