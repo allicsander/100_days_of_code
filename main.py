@@ -1,8 +1,12 @@
 
 
-score = 0
-height = 1.8
-isWinning = True
+age = int(input("What is your current age? "))
 
-# f-string
-print(f"your score is {score}, your height is {height}, you are winning is {isWinning}")
+years_remaining = 90 - age
+day_remaining = years_remaining * 365
+weeks_remaining = years_remaining * 52
+months_remaining = years_remaining * 12
+
+message = f"your have {day_remaining} days, {weeks_remaining} weeks, {months_remaining} months"
+
+print(message)
