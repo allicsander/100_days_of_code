@@ -23,3 +23,9 @@ The first day was great, Angela is spectacular coach, I'd say she has a talent t
 the pledge is working
 
 actually i'm starting to get used to python
+
+### day3 💪
+
+I did it, I did it, I did a chartweel) 
+I've completed the second day's code challenge to be more accurate.
+ready for the third day journey!
