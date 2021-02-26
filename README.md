@@ -29,3 +29,7 @@ actually i'm starting to get used to python
 I did it, I did it, I did a chartweel) 
 I've completed the second day's code challenge to be more accurate.
 ready for the third day journey!
+
+### day4 💪
+
+kind of tired, but I will carry on
