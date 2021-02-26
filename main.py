@@ -1,7 +1,8 @@
 
+print("Welcome to the rollercoaster!")
+height = int(input("What is your height in cm? "))
 
-water_level = 85
-if water_level > 80:
-    print("Drain water")
+if height > 160:
+    print("You can rollercoast, of course if you're bold enough")
 else:
-    print("Contirue filling up the bathtub")    
+    print("Sorry, you can't ride the rollercoast until you grow taller")
