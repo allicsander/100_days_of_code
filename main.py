@@ -1,18 +1,25 @@
-# BMI Calculator 2.0
+print("Welcome to the rollercoaster!")
+height = int(input("What is your height in cm? "))
+bill = 0 
 
-height = float(input("Enter your height in m: "))
-weight = float(input("Enter your weight in kg: "))
+if height > 120:
+    print("You can rollercoast, of course if you're bold enough")
+    age = int(input("What is your age? "))
+    if age < 12:
+        bill = 5
+        print("Child tickets are $5.")
+    elif age <= 18:
+        bill = 7
+        print("Youth tickets are $7.")
+    else:
+        bill = 12
+        print("Adult tickets are $12.")
 
-bmi_index = round(weight/height**2)
+    wants_photo = input("Do you want a photo taken? Mwah or Nah ")  
+    if wants_photo == "Mwah":
+        bill += 3 
+    
+    print(f"Your final bill is {bill}")
 
-if bmi_index <= 18.5:
-    print(f" Your IMB is {bmi_index}, you are underweight.")
-elif bmi_index <= 25:
-    print(f" Your IMB is {bmi_index}, you have a normal weight.")
-elif bmi_index <= 30:
-    print(f" Your IMB is {bmi_index}, you are slightly overweight.")
-elif bmi_index <= 35:
-    print(f" Your IMB is {bmi_index}, you are obese.")
 else:
-    print(f" Your IMB is {bmi_index}, you are clinically obese.")
-
+    print("Sorry, you can't ride the rollercoast until you grow taller")
