@@ -43,3 +43,6 @@ Python is a mwah 😘
 ### day 6 😩
 
 was out for two days due to sudden flu 
+
+### day 7 🐆
+
