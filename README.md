@@ -50,4 +50,5 @@ was out for two days due to sudden flu
 
 ### day 9 😃
 
-Happily started the forth day assignments
+Happily started the forth day assignments\
+I now know about modules)
