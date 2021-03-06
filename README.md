@@ -12,30 +12,30 @@
 
 *Date when started: 2/23/2021*
 
-### day1 😊
+### day 1 😊
 
 :blush:
 
 The first day was great, Angela is spectacular coach, I'd say she has a talent to teach. I feel good and look forward to tomorrow's assignments.
 
-### day2 😃
+### day 2 😃
 
 the pledge is working
 
 actually i'm starting to get used to python
 
-### day3 💪
+### day 3 💪
 
 I did it, I did it, I did a chartweel) 
 I've completed the second day's code challenge to be more accurate.
 ready for the third day journey!
 
-### day4 💪
+### day 4 💪
 
 kind of tired, but I will carry on\
 I like python :)
 
-### day5 😤
+### day 5 😤
 
 still doing third day tasks\
 Python is a mwah 😘
@@ -47,3 +47,5 @@ was out for two days due to sudden flu
 ### day 7 🐆
 
 ### day 8 😊
+
+### day 9 😃
