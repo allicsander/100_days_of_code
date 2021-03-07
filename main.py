@@ -1,7 +1,10 @@
 import random
 
-coin_side = random.randint(0, 1)
-if coin_side == 1:
-    print("Heads")
-else:
-    print("Tails")
+names_string = input("Wecome to the Banker Roulette! Type the names, separated by a comma: ")
+
+names = names_string.split(", ")
+
+
+print(f"{names[random.randint(0, len(names) - 1)]} is going to buy the meal today:)")
+
+# short way:  random.choice(names)
