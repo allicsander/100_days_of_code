@@ -1,10 +1,8 @@
-import random
+# Nested lists
 
-names_string = input("Wecome to the Banker Roulette! Type the names, separated by a comma: ")
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Spinach", "Kale", "Celery", "Potatoes"]
 
-names = names_string.split(", ")
+dirty_dozen = [fruits, vegetables]
 
-
-print(f"{names[random.randint(0, len(names) - 1)]} is going to buy the meal today:)")
-
-# short way:  random.choice(names)
+print(dirty_dozen[1][0])
