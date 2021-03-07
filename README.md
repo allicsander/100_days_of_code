@@ -55,4 +55,6 @@ I now know about modules)
 
 ### day 10 💪
 
-Mastering Lists :)
+Mastering Lists :)\
+I did it, dit it myself. \
+btw  ascii art is awesome
