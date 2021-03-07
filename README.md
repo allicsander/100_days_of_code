@@ -52,3 +52,7 @@ was out for two days due to sudden flu
 
 Happily started the forth day assignments\
 I now know about modules)
+
+### day 10 💪
+
+Mastering Lists :)
