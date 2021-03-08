@@ -58,3 +58,5 @@ I now know about modules)
 Mastering Lists :)\
 I did it, dit it myself. \
 btw  ascii art is awesome
+
+### day 11 😊
