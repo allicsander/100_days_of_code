@@ -7,3 +7,24 @@ print("Welcome to the Password Generator!")
 number_of_letters= int(input("How many letters would you like in your password?\n")) 
 number_of_symbols = int(input(f"How many symbols would you like?\n"))
 number_of_numbers = int(input(f"How many numbers would you like?\n"))
+
+password = []
+
+for char in range(0, number_of_letters):
+    password.append(random.choice(letters))
+
+for char in range(0, number_of_symbols):
+    password.append(random.choice(symbols))
+
+for char in range(0, number_of_numbers):
+    password.append(random.choice(numbers))
+
+# print(password) 
+random.shuffle(password)   
+# print(password)
+
+password_string = ""
+for char in password:
+    password_string += char
+
+print(f"Your secure password is: {password_string}")    
