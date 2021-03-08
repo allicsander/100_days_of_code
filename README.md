@@ -61,4 +61,5 @@ btw  ascii art is awesome
 
 ### day 11 😊
 
-Maybe I was born to be a lobster 😐
+Maybe I was born to be a lobster 😐\
+doing sixth day assignments
