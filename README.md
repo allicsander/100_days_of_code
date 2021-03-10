@@ -67,3 +67,5 @@ doing sixth day assignments
 ### day 12 💪
 
 ### day 13 😤
+
+The more you struggle the more you learn it.
