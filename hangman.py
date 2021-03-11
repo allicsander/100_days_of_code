@@ -1,0 +1,1 @@
+print("Welcome to hangman game! Have fun!\n")
