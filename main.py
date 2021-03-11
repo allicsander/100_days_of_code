@@ -1,5 +1,3 @@
 
-def my_function():
-    print("What's going on?!")
-
-my_function()   
+while 1:
+    print(1)
