@@ -54,3 +54,6 @@ stages = ['''
       |
 =========
 ''']
+
+
+welcome_text = 'Welcome to the hangman game! Have fun & best luck!\n'
