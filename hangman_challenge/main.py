@@ -6,7 +6,7 @@ print(welcome_text)
 
 chosen_word = random.choice(words)
 
-print(f"chosen word is {chosen_word}")
+print(f"Pssst, the chosen word is {chosen_word}")
 
 guess = input("Guess a letter: ").lower()
 
