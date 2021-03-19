@@ -18,7 +18,7 @@ print(display)
 
 end_of_game = False
 
-while not False:
+while not end_of_game:
     guess = input("Guess a letter: ").lower()
 
     for position in range(word_length):
@@ -26,7 +26,11 @@ while not False:
         if letter == guess:
             display[position] = letter
     
-    print(display)
+    if guess not in chosen_word:
+        print("no match, sorry about that!")
+    
+    
+    print(f"{' '.join(display)}")
 
     if "_" not in display:
         end_of_game = True
