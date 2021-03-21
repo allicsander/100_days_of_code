@@ -1,11 +1,12 @@
 
-import math
+def prime_number(number):
+    is_prime = True
+    for i in range(2, number):
+        if number % i == 0:
+            is_prime = False
+    if is_prime:
+        print("it is a prime number")
+    else:
+        print("It's not a prime number")        
 
-def paint_calc(height, width, cover):
-    return math.ceil((width * height)/cover)
-
-test_h = int(input("heigth of the wall: "))
-test_w = int(input("width of the wall: "))
-coverage = 5
-number_of_cans = paint_calc(height=test_h, width=test_w, cover=coverage)
-print(f"the number of cans of paint you'll need: {number_of_cans}")
+prime_number(int(input("Enter a number to check: ")))             
