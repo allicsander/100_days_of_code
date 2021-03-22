@@ -1,12 +1,15 @@
 
-def prime_number(number):
-    is_prime = True
-    for i in range(2, number):
-        if number % i == 0:
-            is_prime = False
-    if is_prime:
-        print("it is a prime number")
-    else:
-        print("It's not a prime number")        
+#dictionaries
 
-prime_number(int(input("Enter a number to check: ")))             
+programming_dictionary = {
+    "Bug": "An error in a program that prevents the program from running as \
+expected.", 
+    "Function": "A piece of code that you can easily call over and over again.",
+    }
+
+
+for entity in programming_dictionary:
+    print(programming_dictionary[entity])
+  
+
+# print(programming_dictionary["Bug"])    
