@@ -71,3 +71,10 @@ doing sixth day assignments
 The more you struggle the more you learn it.
 
 ### day 14 😊
+
+completed day 9 \
+getting hooked on python more & more
+
+### day 15 😃
+
+doing day 10 coding
