@@ -77,4 +77,5 @@ getting hooked on python more & more
 
 ### day 15 😃
 
-doing day 10 coding
+doing day 10 coding \
+keep persevering 
