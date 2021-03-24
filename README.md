@@ -79,3 +79,7 @@ getting hooked on python more & more
 
 doing day 10 coding \
 keep persevering 
+
+### day 17 💪
+
+understood decorators
