@@ -84,15 +84,19 @@
 # add_new_country("Russia", 2, ["Moscow", "Saint Petersburg"])
 # print(travel_log)
 
-enemies = 1
+# enemies = 1
 
-def increase_enemies():
-    # enemies = 2
-    print(f"enemies inside function: {enemies}")
+# def increase_enemies():
+#     # enemies = 2
+#     print(f"enemies inside function: {enemies}")
 
-increase_enemies()
-print(f"enemies outside function: {enemies}")    
+# increase_enemies()
+# print(f"enemies outside function: {enemies}")    
 
+if not 0:
+    print('mwah')
+else:
+    print('nah')
 
 
 
